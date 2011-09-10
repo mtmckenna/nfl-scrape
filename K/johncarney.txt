@@ -1,6 +1,0 @@
-
-John Carney
-WK Game Date Opp Result G GS Blk Lng FG Att FGM Pct XPM XP Att Pct Blk KO Avg TB Ret Avg
-4 10/03 CAR W   16-14 1 0 0 32 3 3 100.0 1 1 100.0 0 -- -- -- -- --
-5 10/10 @ARI L   20-30 1 0 0 32 3 2 66.7 2 2 100.0 0 1 10.0 0 0 --
-TOTAL 2 0 0 32 6 5 83.3 3 3 100.0 0 1 10.0 0 0 0.0
