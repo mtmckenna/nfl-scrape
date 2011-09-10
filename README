@@ -1,0 +1,8 @@
+This is a perl script I wrote in 2010 to scrape offensive player stats from NFL.com. 
+Looks like it still works.
+
+I'm sure I took a lot of code from a WWW::Mechanize example out there on the web, 
+but I can't remember what it was. Sorry about that.
+
+To run this script, you'll need WWW::Mechanize. On OS X, I simply had to run cpan
+(as root) from the command line and type 'install WWW::Mechanize'.
